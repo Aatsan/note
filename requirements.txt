@@ -1,0 +1,32 @@
+# Jupyter Notebook
+jupyter
+
+# Data manipulation and analysis
+numpy
+pandas
+
+# Scientific computing
+scipy
+sympy
+
+# Machine learning
+scikit-learn
+tensorflow
+keras
+
+# Data visualization
+matplotlib
+seaborn
+plotly
+
+# Web scraping
+beautifulsoup4
+requests
+
+# Database interaction
+sqlalchemy
+psycopg2-binary  # For PostgreSQL
+pymysql  # For MySQL
+
+# Jupyter Notebook extensions
+jupyter_contrib_nbextensions
